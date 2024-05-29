@@ -53,4 +53,6 @@ public class TestParent {
             Assert.assertEquals(actualText,expectedText);
         }
     }//end of assertEqualsLoggers method
+
+    //adding a random comment to test git
 }//end of class
